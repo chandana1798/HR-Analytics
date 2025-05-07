@@ -14,5 +14,5 @@
 4.**Education Field-wise Attrition**: Illustrates the number of employees who have left the company, categorized by their field of education.  
 5.**Attrition Rate by Gender for different Age Groups**: Presents the attrition rate for both male and female employees across various age segments.
 ### Links:
-1.Click here to download dataset:
-2.Click here to downlaod Power bi file:
+1.Click here to download dataset:https://github.com/chandana1798/HR-Analytics/blob/main/HR%20Data.xlsx  
+2.Click here to downlaod Power bi file:https://github.com/chandana1798/HR-Analytics/blob/main/HR.pbix
